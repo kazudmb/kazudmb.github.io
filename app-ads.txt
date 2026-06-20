@@ -1,1 +1,1 @@
-# Replace this placeholder with the app-ads.txt line provided by AdMob before production release.
+google.com, pub-7896866961850605, DIRECT, f08c47fec0942fa0
